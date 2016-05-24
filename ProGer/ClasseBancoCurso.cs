@@ -11,6 +11,7 @@ namespace ProGer
 {
     class ClasseBancoCurso
     {
+        //teste joao
         //String de conexão com o banco 
         static string StrConexao = "Data Source=.; Initial Catalog=ProjetoEscolaIdiomaTeste ;Integrated Security=SSPI;";
 

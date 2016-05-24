@@ -37,3 +37,16 @@ C:\Users\Lucas Souza\Desktop\ProjetoFinal\ProGer\obj\Debug\ProGer.csproj.Generat
 C:\Users\Lucas Souza\Source\Repos\ProjetoIfsp\ProGer\bin\Debug\ProGer.exe.config
 C:\Users\Lucas Souza\Source\Repos\ProjetoIfsp\ProGer\obj\Debug\ProGer.exe
 C:\Users\Lucas Souza\Source\Repos\ProjetoIfsp\ProGer\obj\Debug\ProGer.pdb
+C:\Users\Lucas Souza\Source\Repos\ProjetoIfsp2\ProGer\bin\Debug\ProGer.exe.config
+C:\Users\Lucas Souza\Source\Repos\ProjetoIfsp2\ProGer\obj\Debug\ProGer.exe
+C:\Users\Lucas Souza\Source\Repos\ProjetoIfsp2\ProGer\obj\Debug\ProGer.pdb
+C:\Users\Lucas Souza\Source\Repos\ProjetoIfsp2\ProGer\bin\Debug\ProGer.exe
+C:\Users\Lucas Souza\Source\Repos\ProjetoIfsp2\ProGer\bin\Debug\ProGer.pdb
+C:\Users\Lucas Souza\Source\Repos\ProjetoIfsp2\ProGer\obj\Debug\ProGer.csprojResolveAssemblyReference.cache
+C:\Users\Lucas Souza\Source\Repos\ProjetoIfsp2\ProGer\obj\Debug\ProGer.FormMenuAluno.resources
+C:\Users\Lucas Souza\Source\Repos\ProjetoIfsp2\ProGer\obj\Debug\ProGer.FormMenuCursos.resources
+C:\Users\Lucas Souza\Source\Repos\ProjetoIfsp2\ProGer\obj\Debug\ProGer.FormMenuProfessor.resources
+C:\Users\Lucas Souza\Source\Repos\ProjetoIfsp2\ProGer\obj\Debug\ProGer.FormMenuSala.resources
+C:\Users\Lucas Souza\Source\Repos\ProjetoIfsp2\ProGer\obj\Debug\ProGer.FormPai.resources
+C:\Users\Lucas Souza\Source\Repos\ProjetoIfsp2\ProGer\obj\Debug\ProGer.Properties.Resources.resources
+C:\Users\Lucas Souza\Source\Repos\ProjetoIfsp2\ProGer\obj\Debug\ProGer.csproj.GenerateResource.Cache
