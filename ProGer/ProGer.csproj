@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{23B0FD08-9F6A-48A3-BA65-F9383FB83CB5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ProGer</RootNamespace>
+    <AssemblyName>ProGer</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClassBanco.cs" />
+    <Compile Include="ClasseBancoCurso.cs" />
+    <Compile Include="ClasseBancoProfessor.cs" />
+    <Compile Include="ClasseBancoSala.cs" />
+    <Compile Include="FormMenuAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMenuAluno.Designer.cs">
+      <DependentUpon>FormMenuAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMenuCursos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMenuCursos.Designer.cs">
+      <DependentUpon>FormMenuCursos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMenuProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMenuProfessor.Designer.cs">
+      <DependentUpon>FormMenuProfessor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMenuSala.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMenuSala.Designer.cs">
+      <DependentUpon>FormMenuSala.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMenuTurmas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMenuTurmas.Designer.cs">
+      <DependentUpon>FormMenuTurmas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPai.Designer.cs">
+      <DependentUpon>FormPai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormProfessores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProfessores.Designer.cs">
+      <DependentUpon>FormProfessores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="ProjetoEscolaIdiomaTesteDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProjetoEscolaIdiomaTesteDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ProjetoEscolaIdiomaTesteDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProjetoEscolaIdiomaTesteDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormMenuAluno.resx">
+      <DependentUpon>FormMenuAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMenuCursos.resx">
+      <DependentUpon>FormMenuCursos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMenuProfessor.resx">
+      <DependentUpon>FormMenuProfessor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMenuSala.resx">
+      <DependentUpon>FormMenuSala.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPai.resx">
+      <DependentUpon>FormPai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="ProjetoEscolaIdiomaTesteDataSet.xsc">
+      <DependentUpon>ProjetoEscolaIdiomaTesteDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ProjetoEscolaIdiomaTesteDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ProjetoEscolaIdiomaTesteDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ProjetoEscolaIdiomaTesteDataSet.xss">
+      <DependentUpon>ProjetoEscolaIdiomaTesteDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ProjetoEscolaIdiomaTesteDataSet1.xsc">
+      <DependentUpon>ProjetoEscolaIdiomaTesteDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="ProjetoEscolaIdiomaTesteDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ProjetoEscolaIdiomaTesteDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ProjetoEscolaIdiomaTesteDataSet1.xss">
+      <DependentUpon>ProjetoEscolaIdiomaTesteDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

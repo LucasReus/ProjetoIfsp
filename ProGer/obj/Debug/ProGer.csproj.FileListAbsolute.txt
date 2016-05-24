@@ -1,0 +1,36 @@
+D:\ProjetoFinal\ProGer\bin\Debug\ProGer.exe.config
+D:\ProjetoFinal\ProGer\obj\Debug\ProGer.csprojResolveAssemblyReference.cache
+D:\ProjetoFinal\ProGer\obj\Debug\ProGer.FormPai.resources
+D:\ProjetoFinal\ProGer\obj\Debug\ProGer.Properties.Resources.resources
+D:\ProjetoFinal\ProGer\obj\Debug\ProGer.csproj.GenerateResource.Cache
+D:\ProjetoFinal\ProGer\bin\Debug\ProGer.exe
+D:\ProjetoFinal\ProGer\bin\Debug\ProGer.pdb
+D:\ProjetoFinal\ProGer\obj\Debug\ProGer.exe
+D:\ProjetoFinal\ProGer\obj\Debug\ProGer.pdb
+D:\ProjetoFinal\ProGer\obj\Debug\ProGer.FormMenuAluno.resources
+C:\Users\mh240\OneDrive\Documentos\Cursos\Tecnico_Informarica_IFSP\PJS\ProjetoFinal\ProGer\bin\Debug\ProGer.exe.config
+C:\Users\mh240\OneDrive\Documentos\Cursos\Tecnico_Informarica_IFSP\PJS\ProjetoFinal\ProGer\bin\Debug\ProGer.exe
+C:\Users\mh240\OneDrive\Documentos\Cursos\Tecnico_Informarica_IFSP\PJS\ProjetoFinal\ProGer\bin\Debug\ProGer.pdb
+C:\Users\mh240\OneDrive\Documentos\Cursos\Tecnico_Informarica_IFSP\PJS\ProjetoFinal\ProGer\obj\Debug\ProGer.FormMenuAluno.resources
+C:\Users\mh240\OneDrive\Documentos\Cursos\Tecnico_Informarica_IFSP\PJS\ProjetoFinal\ProGer\obj\Debug\ProGer.FormMenuProfessor.resources
+C:\Users\mh240\OneDrive\Documentos\Cursos\Tecnico_Informarica_IFSP\PJS\ProjetoFinal\ProGer\obj\Debug\ProGer.FormMenuSala.resources
+C:\Users\mh240\OneDrive\Documentos\Cursos\Tecnico_Informarica_IFSP\PJS\ProjetoFinal\ProGer\obj\Debug\ProGer.FormPai.resources
+C:\Users\mh240\OneDrive\Documentos\Cursos\Tecnico_Informarica_IFSP\PJS\ProjetoFinal\ProGer\obj\Debug\ProGer.Properties.Resources.resources
+C:\Users\mh240\OneDrive\Documentos\Cursos\Tecnico_Informarica_IFSP\PJS\ProjetoFinal\ProGer\obj\Debug\ProGer.csproj.GenerateResource.Cache
+C:\Users\mh240\OneDrive\Documentos\Cursos\Tecnico_Informarica_IFSP\PJS\ProjetoFinal\ProGer\obj\Debug\ProGer.exe
+C:\Users\mh240\OneDrive\Documentos\Cursos\Tecnico_Informarica_IFSP\PJS\ProjetoFinal\ProGer\obj\Debug\ProGer.pdb
+C:\Users\mh240\OneDrive\Documentos\Cursos\Tecnico_Informarica_IFSP\PJS\ProjetoFinal\ProGer\obj\Debug\ProGer.FormMenuCursos.resources
+C:\Users\mh240\OneDrive\Documentos\Cursos\Tecnico_Informarica_IFSP\PJS\ProjetoFinal\ProGer\obj\Debug\ProGer.csprojResolveAssemblyReference.cache
+C:\Users\Lucas Souza\Desktop\ProjetoFinal\ProGer\bin\Debug\ProGer.exe.config
+C:\Users\Lucas Souza\Desktop\ProjetoFinal\ProGer\obj\Debug\ProGer.exe
+C:\Users\Lucas Souza\Desktop\ProjetoFinal\ProGer\obj\Debug\ProGer.pdb
+C:\Users\Lucas Souza\Desktop\ProjetoFinal\ProGer\bin\Debug\ProGer.exe
+C:\Users\Lucas Souza\Desktop\ProjetoFinal\ProGer\bin\Debug\ProGer.pdb
+C:\Users\Lucas Souza\Desktop\ProjetoFinal\ProGer\obj\Debug\ProGer.csprojResolveAssemblyReference.cache
+C:\Users\Lucas Souza\Desktop\ProjetoFinal\ProGer\obj\Debug\ProGer.FormMenuAluno.resources
+C:\Users\Lucas Souza\Desktop\ProjetoFinal\ProGer\obj\Debug\ProGer.FormMenuCursos.resources
+C:\Users\Lucas Souza\Desktop\ProjetoFinal\ProGer\obj\Debug\ProGer.FormMenuProfessor.resources
+C:\Users\Lucas Souza\Desktop\ProjetoFinal\ProGer\obj\Debug\ProGer.FormMenuSala.resources
+C:\Users\Lucas Souza\Desktop\ProjetoFinal\ProGer\obj\Debug\ProGer.FormPai.resources
+C:\Users\Lucas Souza\Desktop\ProjetoFinal\ProGer\obj\Debug\ProGer.Properties.Resources.resources
+C:\Users\Lucas Souza\Desktop\ProjetoFinal\ProGer\obj\Debug\ProGer.csproj.GenerateResource.Cache
