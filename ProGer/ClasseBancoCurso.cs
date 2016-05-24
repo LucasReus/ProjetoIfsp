@@ -20,6 +20,7 @@ namespace ProGer
             SqlConnection Conexao = new SqlConnection(StrConexao);
             try
             {
+                ///pega ai joao
                 Conexao.Open();
                 SqlCommand Cmd = new SqlCommand();
                 Cmd.Connection = Conexao;
