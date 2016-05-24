@@ -34,3 +34,6 @@ C:\Users\Lucas Souza\Desktop\ProjetoFinal\ProGer\obj\Debug\ProGer.FormMenuSala.r
 C:\Users\Lucas Souza\Desktop\ProjetoFinal\ProGer\obj\Debug\ProGer.FormPai.resources
 C:\Users\Lucas Souza\Desktop\ProjetoFinal\ProGer\obj\Debug\ProGer.Properties.Resources.resources
 C:\Users\Lucas Souza\Desktop\ProjetoFinal\ProGer\obj\Debug\ProGer.csproj.GenerateResource.Cache
+C:\Users\Lucas Souza\Source\Repos\ProjetoIfsp\ProGer\bin\Debug\ProGer.exe.config
+C:\Users\Lucas Souza\Source\Repos\ProjetoIfsp\ProGer\obj\Debug\ProGer.exe
+C:\Users\Lucas Souza\Source\Repos\ProjetoIfsp\ProGer\obj\Debug\ProGer.pdb
